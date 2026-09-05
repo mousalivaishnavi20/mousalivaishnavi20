@@ -41,14 +41,5 @@ I am building a strong foundation in computer science and leveraging modern AI-a
 ---
 ### 📫 Let's Connect
 
-- **GitHub:** [mousalivaishnavi20](https://github.com/mousalivaishnavi20)
-- **LinkedIn:** [Mousali Vaishnavi Reddy](https://www.linkedin.com/in/mousali-vaishnavi-reddy-854b7624b/)
-
----
-### 📊 Tech Badges
-
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.js.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![LinkedIn](https://img.shieldsgithub&logoColorIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mousali-vaishnavi-reddy-854b7624b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mousalivaishnavi20)
