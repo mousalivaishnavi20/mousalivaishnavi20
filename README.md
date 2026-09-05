@@ -40,13 +40,5 @@ I am building a strong foundation in computer science and leveraging modern AI-a
 ---
 ### 📫 Let's Connect
 
-- **LinkedIn:** [Mousali Vaishnavi Reddy](https://www.linkedin.com/in/mousali-vaishnavi-reddy-854b7624b/)
-- **GitHub:** [mousalivaishnavi20](https://github.com/mousalivaishnavi20)
-
----
-### 📊 Tech Badges
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.js.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![GitHub](https://github.com/mousalivaishnavi20)]
+[![Linkedin](https://www.linkedin.com/in/mousali-vaishnavi-reddy-854b7624b/)]
