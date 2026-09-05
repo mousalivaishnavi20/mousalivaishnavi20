@@ -38,10 +38,7 @@ I am building a strong foundation in computer science and leveraging modern AI-a
   *A transparency-first donation platform connecting donors with verified campaigns, featuring clear milestone tracking and digital impact receipts.*
 
 ---
----
-### 📫 Let's Connect
 
----
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mousali-vaishnavi-reddy-854b7624b/)
