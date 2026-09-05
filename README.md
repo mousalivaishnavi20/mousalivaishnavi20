@@ -1,34 +1,52 @@
 # Hi there, I'm Vaishnavi! 👋
 
-I am a Computer Science Engineering student passionate about full-stack web development and exploring the exciting world of Artificial Intelligence and Machine Learning. I love learning in public and building intelligent, interactive applications.
+**Computer Science Student & Vibe Coder | Aspiring AI/ML & Full-Stack Developer**
+
+I am building a strong foundation in computer science and leveraging modern AI-assisted workflows ("vibe coding") to build practical full-stack and AI-driven applications. As I expand my expertise, I am actively exploring AI/ML fundamentals, RAG systems, and intelligent workflows.
 
 ---
-
 ### 🚀 About Me
-- 📚 **Currently Studying:** Computer Science Engineering, diving deep into AI & ML concepts.
-- 💻 **Tech Interests:** Full-Stack Web Development, building smart applications, and interactive UI design.
-- 🌱 **Learning Goal:** Combining modern web frameworks with machine learning models to build intelligent user experiences.
-- ⚡ **Fun Fact:** When I'm not writing code or training models, I practice and teach classical Indian dance!
+- 💡 **What I do:** Rapidly prototype and ship full-stack web applications integrated with intelligent features and AI workflows.
+- 🎯 **Current Focus:** Building **Skillora** (a professional skill-exchanging and blog platform) and implementing RAG (Retrieval-Augmented Generation) within **GramSeva AI**.
+- 🧠 **Future Roadmap:** Deepening expertise in LLMs, advanced RAG architectures, NLP, and Convolutional Neural Networks (CNNs).
+- ⚡ **Fun Fact:** Beyond software engineering, I practice and teach classical Indian dance!
 
 ---
-
 ### 🛠️ My Tech Stack
 
-**Web Development:**
-- Frontend: HTML5, CSS3, JavaScript (ES6+), React.js
-- Backend & Databases: Node.js, Express.js
+**🌐 Full-Stack Web Development:**
+- Frontend: React.js, Next.js, Tailwind CSS, TypeScript
+- Backend: Node.js, Express.js
+- Databases & Cloud: MongoDB, Cloudinary, Docker
 
-**AI / ML & Core Tech:**
-- Python, Core Computer Science Fundamentals
-
-**Tools & Platforms:**
-- Git & GitHub, VS Code, Mac OS
+**🤖 AI & Workflow Tools:**
+- AI Integration, Prompt Engineering, Gemini AI, RAG Systems
+- Git & GitHub Actions, Render, Vercel, VS Code
 
 ---
+### 📌 Featured Projects
 
-### 📊 My GitHub Stats
+- 🌾 **GramSeva AI** *(Current / RAG Integration)*
+  *A smart bilingual platform for rural welfare discovery in Telangana featuring a conversational chat engine, live voice simulation, dynamic document generation, and RAG capabilities.*
+- 📝 **Skillora** *(Current Project)*
+  *A skill-exchanging platform for professionals structured like an interactive blog application to facilitate peer learning and knowledge sharing.*
+- 📸 **[Click N Shoot](https://clicknshoot.co.in)** *(Live Production Platform)*
+  *A full-stack production platform built for a photography and cinematic services business, handling client requirements, deployment, and testing using React, Node.js, Express, MongoDB, and Docker.*
+- 🔍 **InternTrack Insight**
+  *An AI-powered resume intelligence platform featuring a self-correcting parsing workflow inspired by Hindsight, ATS match scoring, and automated candidate evaluations.*
+- 💙 **ImpactReceipt**
+  *A transparency-first donation platform connecting donors with verified campaigns, featuring clear milestone tracking and digital impact receipts.*
+
+---
+### 📫 Let's Connect
+
+- **LinkedIn:** [Mousali Vaishnavi Reddy](https://www.linkedin.com/in/mousali-vaishnavi-reddy-854b7624b/)
+- **GitHub:** [mousalivaishnavi20](https://github.com/mousalivaishnavi20)
+
+---
+### 📊 Tech Badges
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.js.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
